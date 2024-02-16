@@ -1,5 +1,5 @@
 # Nerd Fonts
-This is font-patcher python script (and required source files) from a Nerd Fonts release.
+This is font-patcher python script (and required source files) from a Nerd Fonts release. Taken from (here)[https://github.com/ryanoasis/nerd-fonts/].
 ## Installation
 * Clone this repo or its [original archive](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/FontPatcher.zip)
 * Requires: Fontforge, Python 3, `python-fontforge` and `argparse` packages
